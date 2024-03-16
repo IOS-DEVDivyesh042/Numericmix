@@ -1,0 +1,6 @@
+framework module Pods_NumAllure {
+  umbrella header "Pods-NumAllure-umbrella.h"
+
+  export *
+  module * { export * }
+}

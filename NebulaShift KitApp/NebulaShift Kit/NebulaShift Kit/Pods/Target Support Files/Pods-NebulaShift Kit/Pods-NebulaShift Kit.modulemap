@@ -1,0 +1,6 @@
+framework module Pods_NebulaShift_Kit {
+  umbrella header "Pods-NebulaShift Kit-umbrella.h"
+
+  export *
+  module * { export * }
+}
