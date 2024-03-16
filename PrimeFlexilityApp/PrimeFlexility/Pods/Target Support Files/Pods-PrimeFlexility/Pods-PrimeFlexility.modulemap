@@ -1,0 +1,6 @@
+framework module Pods_PrimeFlexility {
+  umbrella header "Pods-PrimeFlexility-umbrella.h"
+
+  export *
+  module * { export * }
+}
